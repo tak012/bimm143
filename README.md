@@ -6,4 +6,4 @@ My classwork from [BIMM143](http://bioboot.github.io/bimm143_W26/)
 
 *Introductory material*
 
-- Class 04 [Intro to R](class04/class04.qmd)
+- Class 04 [Intro to R](class04/class04.pdf)
